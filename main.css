@@ -1,0 +1,15 @@
+.header img {
+    width: 100%; 
+    height: auto;
+}
+
+html{
+    background-color: #ffcc66;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.image {
+    float: right;
+    width: 350px; /* Imposta la larghezza dell'immagine */
+    margin-left: 10px; /* Aggiunge spazio tra l'immagine e il testo */
+}
